@@ -20,7 +20,7 @@ https://events.radformation.com/2023-radformation-developer-summit
 Resources
 ---------
 
-This repo is designed as a artifact of the breakouts which will allow attendees and the community at large to
+This repo is designed as an artifact of the breakouts which will allow attendees and the community at large to
 view content, before, during, and after the event. It is intended to be useful as a reference if and when
 developers broach these topics in their clinics. Use the links on the left to navigate through the
 breakouts.
@@ -28,7 +28,7 @@ breakouts.
 Description
 -----------
 
-In the ever-evolving field of medical physics, professionals constantly seek to improve the accuracy, efficiency, and quality of diagnoses, development and treatment of RT plans. This repo is a brief guidebook that delves into six vital subjects, presenting a view of essential technologies in medical imaging. Whether you are an aspiring developer, a seasoned software engineer, or a medical physicist seeking to enhance your understanding of the underlying technologies, this event and repo is designed to introduce you to the knowledge and skills needed to excel in this exciting domain.
+In the ever-evolving field of medical physics, professionals constantly seek to improve the accuracy, efficiency, and quality of diagnoses, development, and treatment of RT plans. This repo is a brief guidebook that delves into six vital subjects, presenting a view of essential technologies in medical imaging. Whether you are an aspiring developer, a seasoned software engineer, or a medical physicist seeking to enhance your understanding of the underlying technologies, this event and repo will introduce you to the knowledge and skills needed to excel in this exciting domain.
 
 Session 1, Breakout 1: ESAPI
 """"""""""""""""""""""""""""
@@ -36,7 +36,7 @@ Session 1, Breakout 1: ESAPI
 This breakout begins with an exploration of ESAPI (Eclipse Scripting Application Programming Interface),
 a powerful scripting interface used in the renowned Eclipse treatment planning system.
 We will provide a detailed overview of ESAPI's capabilities, guiding readers through the creation of custom scripts for automating tasks,
-improving workflow efficiency, and enhancing treatment plan quality.
+improving workflow efficiency and enhancing treatment plan quality.
 
 Session 1, Breakout 2: Image Contouring Techniques
 """"""""""""""""""""""""""""""""""""""""""""""""""
@@ -58,9 +58,8 @@ to version control and testing methodologies, readers will gain valuable insight
 Session 2, Breakout 1: Introduction to Software Patterns
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-To develop robust and maintainable software solutions in medical imaging,
-understanding software patterns is crucial. This chapter explores common design patterns,
-architectural patterns, and best practices specifically tailored for medical imaging applications.
+Understanding software patterns is crucial to develop robust and maintainable software solutions in medical imaging. 
+This chapter explores common design patterns, architectural patterns, and best practices tailored for medical imaging applications.
 It provides insights into structuring code, optimizing performance, and promoting extensibility and modularity.
 
 Session 2, Breakout 2: Automated Planning in Medical Imaging
@@ -76,7 +75,7 @@ associated with this transformative technology.
 Session 2, Breakout 3: DICOM
 """"""""""""""""""""""""""""
 
-DICOM serves as the standard for storing, transmitting, and sharing medical images and
+DICOM is the standard for storing, transmitting, and sharing medical images and
 related data. This chapter introduces the fundamental concepts of DICOM,
 its underlying structure, and some background.
 It also covers practical aspects of working with DICOM images and files.
